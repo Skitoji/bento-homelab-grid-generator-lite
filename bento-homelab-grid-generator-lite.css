@@ -1,0 +1,10 @@
+/* Modern Bento Grid Template & Interactive CSS/Tailwind Generator — Lite Open-Source Starter Tokens */
+/* Live Interactive Generator: https://tools.skitoji.cloud/bento-homelab-grid-generator/ */
+/* Full Pro Package (.zip): https://skitoji.gumroad.com/l/bento-homelab-grid-generator */
+
+:root {
+  --sk-primary: #10b981;
+  --sk-secondary: #6366f1;
+  --sk-blur: 18px;
+  --sk-radius: 16px;
+}
